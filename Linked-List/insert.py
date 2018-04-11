@@ -45,10 +45,10 @@ if __name__ == '__main__':
 
      # Insert 6.  So linked list becomes 6->None
     llist.append(6)
- 
+
     # Insert 7 at the beginning. So linked list becomes 7->6->None
     llist.push(7)
- 
+    
     # Insert 1 at the beginning. So linked list becomes 1->7->6->None
     llist.push(1)
  
